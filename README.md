@@ -1,4 +1,4 @@
-#Fine-tuning of YOLOv3
+# Fine-tuning of YOLOv3
 
 This repository is based on https://github.com/eriklindernoren/PyTorch-YOLOv3 and fine-tuned on [Open Images dataset](https://storage.googleapis.com/openimages/web/index.html).
 
